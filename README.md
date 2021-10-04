@@ -34,8 +34,13 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 -Restart your client
 
 ##Manual Installation
+
 -Download the latest release here.
+
 -Download and open PredMod.zip
+
 -Extract the "files" folder from PredMod.zip into your Venge Client Resource Swapper
+
 -Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
+
 -Launch or restart your client
