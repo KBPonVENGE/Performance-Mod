@@ -20,11 +20,17 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 [![](https://cdn.discordapp.com/attachments/888752629780447242/894621258556272740/KBP.PNG)]()
 
 #Installation Methods
+
 ##Quick Installation
+
 -Right click PredMod and click "Copy Link Address"
+
 -Go to your Venge Client settings
+
 -Go to Client
+
 -Paste the link into the Resource URL box
+
 -Restart your client
 
 ##Manual Installation
