@@ -16,3 +16,5 @@ PS(2): IF YOU WANT TO HAVE ALWAYS THE LAST VERSION OF THIS MOD, JOIN MY SERVER D
 Enjoy this Mod ! if you like it, you can support me by sending me some vg in the game, here is my nickname : K.B.P
 
 ❤️Enjoy ! ❤️
+
+[![](https://cdn.discordapp.com/attachments/888752629780447242/894621258556272740/KBP.PNG)]()
