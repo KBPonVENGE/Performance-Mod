@@ -13,7 +13,7 @@ PS (1) :I want to specify that this mod was not entirely created by me, there ar
 
 you can also join my clan if you want ! ( SHOT clan ), it's level 3 now.
 
-PS(2): DON'T FORGETT TO JOIN MY SERVER DISCORD § 🙂 https://discord.gg/WkqBjeCu5A
+PS(2): DON'T FORGETT TO JOIN MY SERVER DISCORD ! 🙂 https://discord.gg/WkqBjeCu5A
 
 Enjoy this Mod ! if you like it, you can support me by sending me some vg in the game, here is my nickname : K.B.P
 
