@@ -25,26 +25,26 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 ## Quick Installation
 
--Right click PredMod and click "Copy Link Address"
+- Right click PredMod and click "Copy Link Address"
 
--Go to your Venge Client settings
+- Go to your Venge Client settings
 
--Go to Client
+- Go to Client
 
--Paste the link into the Resource URL box
+- Paste the link into the Resource URL box
 
--Restart your client
+- Restart your client
 
 ## Manual Installation
 
--Download the latest release here.
+- Download the latest release here.
 
--Download and open PredMod.zip
+- Download and open PredMod.zip
 
--Extract the "files" folder from PredMod.zip into your Venge Client Resource Swapper
+- Extract the "files" folder from PredMod.zip into your Venge Client Resource Swapper
 
--Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
+- Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
 
--Launch or restart your client
+- Launch or restart your client
 
 # ⚠️DISCLAIMER!- These are not hacks or cheats, mods are purely for cosmetic purposes ONLY! I do NOT condone the use of hacks/cheats in any game.
