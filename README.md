@@ -52,3 +52,13 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
  
 
 # ⚠️DISCLAIMER!- These are not hacks or cheats, mods are purely for cosmetic purposes ONLY! I do NOT condone the use of hacks/cheats in any game.
+
+Captures :
+
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005919811883068/temple.PNG)]()
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005920948527134/sniper.PNG)]()
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005925088329809/MISTL.PNG)]()
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005923305717780/tec9.PNG)]()
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005925713272942/mi.PNG)]()
+[![](https://cdn.discordapp.com/attachments/883683035525054494/895005928145948792/SNIIPERsierra.PNG)]()
+
