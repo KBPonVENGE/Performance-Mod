@@ -9,11 +9,11 @@ Mod made by K.B.P
 
 Thank you for downloading this mod for venge.io! It will improve your game experience! Almost all textures have been optimized, so you can play better! 
 
-PS (1) :I want to specify that this mod was not entirely created by me, there are some elements from the Pred Mod and Anon Mod.
+PS  :I want to specify that this mod was not entirely created by me, there are some elements from the Pred Mod and Anon Mod.
 
 you can also join my clan if you want ! ( SHOT clan ), it's level 3 now.
 
-PS(2): DON'T FORGETT TO JOIN MY SERVER DISCORD ! 🙂 https://discord.gg/WkqBjeCu5A
+[https://discord.gg/WkqBjeCu5A](JOIN MY DISCORD SERVER)
 
 Enjoy this Mod ! if you like it, you can support me by sending me some vg in the game, here is my nickname : K.B.P
 
