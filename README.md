@@ -47,8 +47,8 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 - Launch or restart your client
 
- ## Check out my youtube channel!
- [!Venge.io Gaming!](https://www.youtube.com/channel/UC1NdZ3OOfG7lzoDbpSv74pQ/videos)
+ ## 🧐 Check out my youtube channel!🧐
+ [!👍Venge.io Gaming!](https://www.youtube.com/channel/UC1NdZ3OOfG7lzoDbpSv74pQ/videos)
  
 
 # ⚠️DISCLAIMER!- These are not hacks or cheats, mods are purely for cosmetic purposes ONLY! I do NOT condone the use of hacks/cheats in any game.
