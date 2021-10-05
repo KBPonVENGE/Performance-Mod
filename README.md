@@ -21,9 +21,9 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 [![](https://cdn.discordapp.com/attachments/888752629780447242/894621258556272740/KBP.PNG)]()
 
-#Installation Methods
+# Installation Methods
 
-##Quick Installation
+## Quick Installation
 
 -Right click PredMod and click "Copy Link Address"
 
@@ -35,7 +35,7 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 -Restart your client
 
-##Manual Installation
+## Manual Installation
 
 -Download the latest release here.
 
@@ -46,3 +46,5 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 -Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
 
 -Launch or restart your client
+
+# ⚠️DISCLAIMER!- These are not hacks or cheats, mods are purely for cosmetic purposes ONLY! I do NOT condone the use of hacks/cheats in any game.
