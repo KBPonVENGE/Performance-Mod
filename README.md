@@ -5,7 +5,7 @@ PERFORMANCE MOD
 [![](https://cdn.discordapp.com/attachments/888752629780447242/894620135015464960/PERFORMANCE_Mod..jpg)]()
 Mod made by K.B.P
 
-[![](https://shields.io/github/downloads/KBPonVENGE/Performance-Mod/total)]()
+
 
 Thank you for downloading this mod for venge.io! It will improve your game experience! Almost all textures have been optimized, so you can play better! 
 
