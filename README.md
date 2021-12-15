@@ -25,7 +25,7 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 ## 📜Quick Installation
 
-- Right click PredMod and click "Copy Link Address"
+- Right click Performance-mod and click "Copy Link Address"
 
 - Go to your Venge Client settings
 
@@ -39,11 +39,11 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 - Download the latest release here.
 
-- Download and open PredMod.zip
+- Download and open PerformanceMod.zip
 
-- Extract the "files" folder from PredMod.zip into your Venge Client Resource Swapper
+- Extract the "files" folder from PerformanceMod.zip into your Venge Client Resource Swapper
 
-- Extract the "predmodscript.js" & "charfix.js" into your Venge Client Userscripts folder
+- Extract the "performanceModscript.js" & "charfix.js" into your Venge Client Userscripts folder
 
 - Launch or restart your client
 
@@ -53,7 +53,7 @@ Enjoy this Mod ! if you like it, you can support me by sending me some vg in the
 
 # ⚠️DISCLAIMER!- These are not hacks or cheats, mods are purely for cosmetic purposes ONLY! I do NOT condone the use of hacks/cheats in any game.
 
-Captures :
+Screenshots :
 
 [![](https://cdn.discordapp.com/attachments/883683035525054494/895005919811883068/temple.PNG)]()
 [![](https://cdn.discordapp.com/attachments/883683035525054494/895005920948527134/sniper.PNG)]()
