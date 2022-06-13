@@ -1,0 +1,228 @@
+/* Logo Replacement */
+#logo img {
+    content: url("https://cdn.discordapp.com/attachments/865179193707986954/957231717633114192/Venge.io__2_-removebg.png");
+    margin-left: 815px;
+    margin-top: 100px;
+	width: 100%
+}
+
+/* Play & Invite Button */
+#play-button {
+    background-image: url("https://cdn.discordapp.com/attachments/865179193707986954/957231000017043526/Play_button_bleu_prev_ui.png");
+    text-shadow: 0px 4px 1px #a51919;
+}
+
+#invite-button img {
+    content: url("https://cdn.discordapp.com/attachments/865179193707986954/957231000306483200/invit_icon_bleu_prev_ui.png");
+}
+
+/* Twitch / YouTube Feature */
+#twitch{
+	position: absolute;
+	right: 130px;
+	top: 30px;
+	color: #fff;
+	background: rgba(0,0,0,255.32);
+	display: block;
+	padding: 6px 16px;
+	cursor: pointer;
+	text-decoration: none;
+	border-radius: 25px;
+	z-index: 1;
+
+}
+
+#twitch.extended{
+	right: initial;
+    left: 40px;
+    top: 160px;
+}
+
+/* Profile Appearance */
+.extended .profile-experience-bar{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	width: 100%;
+	height: 12px;
+	background: #535353;
+	border-radius: 12px;
+	overflow: hidden;
+}
+
+.extended .profile-experience-bar span{
+	background: #ff0202;
+	width: 0;
+	height: 100%;
+}
+
+.extended .profile-experience .profile-level{
+	position: absolute;
+	width: 100%;
+	left: 0;
+	top: 50%;
+	transform: translateY(-50%);
+ 	font-size: 13px;
+ 	text-align: center;
+ 	text-shadow: 0px 1px 2px #5c0e0e;
+}
+
+.extended .menu-button.account{
+	width: auto;
+	min-width: 190px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	color: #fff;
+	text-decoration: none;
+	padding: 0 15px;
+	box-sizing: border-box;
+	/* border-radius: 7px; */
+	background: rgba(0,0,255,0);
+}
+
+/* Menu Button Styles */
+.menu-button{
+	/* background: url('../images/Menu-Button.png') no-repeat; */
+	width: 70px;
+	height: 70px;
+	background-size: 100% 100%;
+	display: block;
+	margin-bottom: 15px;
+	position: relative;
+	float: right;
+	/* background: #000000; */
+	border-radius: 13px;
+	border: solid 2px rgba(255,255,255,0);
+	font-size: 16px;
+	color: #fff;
+	text-decoration: none;
+	box-sizing: border-box;
+}
+
+/* Server Selection & Info Appearance */
+#server-settings{
+	position: absolute;
+	width: max-content;
+	bottom: 167px;
+	right: 32px;
+	color: #d8d8d8;
+	font-size: 17px;
+	background: rgba(255,0,0,0.17);
+	padding: 5px 5px;
+	border-radius: 25px;
+}
+
+#server-settings span{
+	margin-left: 17px;
+	float: left;
+	cursor: pointer;
+}
+
+#server-settings span b{
+	color: #fff;
+}
+
+#server-settings span:hover b{
+	color: #ff0000;
+}
+
+/* Settings & Shop Icons */
+.settings img {
+    content: url("https://cdn.discordapp.com/attachments/865179193707986954/957230999769583626/setting_bleu_prev_ui.png");
+}
+
+.shop img {
+    content: url("https://cdn.discordapp.com/attachments/865179193707986954/957231181173235742/bleu_caddie_shop_prev_ui.png");
+}
+
+.quest-menu img {
+    content: url("https://cdn.discordapp.com/attachments/825856880915120128/956301119376736366/Headshot-Icon.png")
+}
+
+/* Social Hub Icon */
+.social-hub{
+    display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 175px;
+	background: rgba(0, 4, 255, 0.7);
+	padding: 10px 20px;
+	font-size: 16px;
+	color: #fff;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 25px;
+	padding-left: 20px;
+	text-decoration: none;
+	cursor: pointer;
+	box-sizing: border-box;
+	transition: ease all 0.2s;
+	margin-bottom: 10px;
+}
+
+/* Change Loadout Button */
+#character h4{
+	background: rgb(0, 0, 255);
+	padding: 10px 20px;
+	font-size: 25px;
+	color: #fff;
+	position: absolute;
+	left: 0px;
+	bottom: 100px;
+	height: fit-content;
+	/* text-transform: uppercase; */
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 25px;
+	padding-left: 20px;
+	cursor: pointer;
+	border-bottom: solid 6px #540101;
+	text-shadow: 0px 1px 3px #460101;
+}
+
+/* Menu Buttons Hover Style */
+.menu-button:hover{
+    background: rgba(255,0,0,0.26);
+}
+
+/* Account Hover Style */
+.menu-button.account:hover{
+    border-color: #ff0202;
+}
+
+/* Hover Hints Colour */
+[class*=hint--]:after{
+	border-radius: 5px;
+}
+
+[class*=hint--]:after{
+	background-color: #ff0000!important;
+}
+[class*=hint--right]:before{
+	border-right-color: #ff0000!important;
+}
+[class*=hint--left]:before{
+	border-left-color: #ff0000!important;
+}
+[class*="hint--"]:hover::after{
+    background-color: #ff0000!important;
+}
+[class*=hint--right]:hover::before{
+	border-right-color: #ff0000!important;
+}
+[class*=hint--left]:hover::before{
+	border-left-color: #ff0000!important;
+}
+
+/* Move Account Details */
+.account {
+    position: absolute;
+	top: 660px;
+	right: 15px;
+}
+
+/* Hide Icons */
+.poki.button-sound , .twitter.button-sound, .discord.border-design.button-sound{
+  display: none !important;
+}
+
