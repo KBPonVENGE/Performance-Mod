@@ -3,7 +3,7 @@
 Performance-Mod
 PERFORMANCE MOD
 [![](https://cdn.discordapp.com/attachments/888752629780447242/894620135015464960/PERFORMANCE_Mod..jpg)]()
-Mod made by K.B.P
+Mod made by K.B.P   UPDATE : Monday June 13, 2022
 
 
 
@@ -13,7 +13,7 @@ PS  :I want to specify that this mod was not entirely created by me, there are s
 
 you can also join my clan if you want ! ( SHOT clan ), it's level 3 now.
 
-[❤️JOIN MY DISCORD SERVER❤️](https://discord.gg/WkqBjeCu5A)
+[❤️JOIN MY DISCORD SERVER❤️](https://discord.gg/38chtfggyw)
 
 Enjoy this Mod ! if you like it, you can support me by sending me some vg in the game, here is my nickname : K.B.P
 
